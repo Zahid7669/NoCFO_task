@@ -1,7 +1,4 @@
-# NOCFO Homework Assignment - AI Engineer
-
-> [!NOTE]
-> We recommend spending **no more than 6 hours** on this task. Focus on the essentials – a functional and clear implementation is more important than perfection.
+# NOCFO Homework 
 
 ## Objective
 
@@ -76,6 +73,3 @@ Email the link to the repository to **people@nocfo.io**. The email subject must 
 5. Documentation & Tests: The README and test cases clearly describe the approach, assumptions, and demonstrate correctness.
 
 ---
-
-> [!IMPORTANT]
-> If you have technical challenges with completing the task, you can contact Juho via email at **juho.enala@nocfo.io**.
